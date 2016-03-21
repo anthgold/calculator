@@ -57,6 +57,3 @@ var cToF = function(temp) {
 var result = cToF(temp);
 
 alert(result.toPrecision(3));
-
-/*===Unit conversion Functions
-====================================*/
